@@ -1,0 +1,29 @@
+### GET REQUEST
+GET http://localhost:3500/EscritorasBrasileiras HTTP/1.1
+
+### POST REQUEST
+POST http://localhost:3500/EscritorasBrasileiras HTTP/1.1
+content-type: application/json
+
+{
+    "id": "1",
+    "nome": "Nisia Floresta",
+    "nacionalidade": "Brasileira",
+    "Livro": "Opúsculo Humanitário",
+    "Leitura": false
+}
+
+### GET REQUEST
+GET http://localhost:3500/EscritorasEstrangeiras HTTP/1.1
+
+### POST REQUEST
+POST http://localhost:3500/EscritorasEstrangeiras HTTP/1.1
+content-type: application/json
+
+{
+    "id": "1",
+    "nome": "Paulina Chiziane",
+    "nacionalidade": "Portuguesa",
+    "Livro": "Balada de amor ao vento",
+    "Leitura": false
+}

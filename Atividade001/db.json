@@ -1,0 +1,42 @@
+{
+    "EscritorasBrasileiras": [
+        {
+            "id": "1",
+            "nome": "Nisia Floresta",
+            "nacionalidade": "Brasileira",
+            "Livro": "Opúsculo Humanitário",
+            "Leitura": false
+        },
+        {
+            "id": "2",
+            "nome": "Conceição Evaristo",
+            "nacionalidade": "Brasileira",
+            "Livro": "Canção para ninar menino grande",
+            "Leitura": false
+        },
+        {
+            "id": "3",
+            "nome": "Narcisia Amália",
+            "nacionalidade": "Brasileira",
+            "Livro": "Nebulosas",
+            "Leitura": false
+        },
+        {
+            "id": "4",
+            "nome": "Julia Lopes de Almeida",
+            "nacionalidade": "Brasileira",
+            "Livro": "Memórias de Martha",
+            "Leitura": false
+        }
+],
+
+    "EscritorasEstrangeiras": [
+        {
+            "id": "1",
+            "nome": "Paulina Chiziane",
+            "nacionalidade": "Moçambicana",
+            "Livro": "Balada de amor ao vento",
+            "Leitura": false
+        }
+    ]
+}
